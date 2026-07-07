@@ -7,6 +7,7 @@ LEETCODE SOLUTIONS
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tarun123-pixel/master/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tarun123-pixel/master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun123-pixel/master/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -17,4 +18,12 @@ LEETCODE SOLUTIONS
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun123-pixel/master/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tarun123-pixel/master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tarun123-pixel/master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
