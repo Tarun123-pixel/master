@@ -11,6 +11,7 @@ LEETCODE SOLUTIONS
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tarun123-pixel/master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Tarun123-pixel/master/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun123-pixel/master/tree/master/0560-subarray-sum-equals-k) |
+| [1046-last-stone-weight](https://github.com/Tarun123-pixel/master/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ LEETCODE SOLUTIONS
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tarun123-pixel/master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Tarun123-pixel/master/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
