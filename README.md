@@ -10,6 +10,7 @@ LEETCODE SOLUTIONS
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun123-pixel/master/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tarun123-pixel/master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Tarun123-pixel/master/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Tarun123-pixel/master/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun123-pixel/master/tree/master/0560-subarray-sum-equals-k) |
 | [1046-last-stone-weight](https://github.com/Tarun123-pixel/master/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -35,4 +36,16 @@ LEETCODE SOLUTIONS
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Tarun123-pixel/master/tree/master/1046-last-stone-weight) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Tarun123-pixel/master/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Tarun123-pixel/master/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Tarun123-pixel/master/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
