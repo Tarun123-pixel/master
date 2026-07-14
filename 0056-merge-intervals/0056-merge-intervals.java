@@ -1,0 +1,28 @@
+class Solution {
+    public int[][] merge(int[][] intervals) {
+        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0],b[0]));
+        ArrayList<int[]> ans = new ArrayList<>();
+        int i =0 ;
+        int start = intervals[i][0];
+        int end = intervals[i][1];
+        for(i =1 ; i < intervals.length ; i++){
+            if(intervals[i][0] <= end){
+                start = Math.min(start , intervals[i][0]);
+                end = Math.max(end, intervals[i][1]);
+            }
+            else{
+                
+                ans.add(new int[]{start,end});
+
+                start = intervals[i][0];
+                end = intervals[i][1];
+            }
+            
+        }
+        ans.add(new int[]{start,end});
+        
+        return ans.toArray(new int [ans.size()][]);
+    }  
+    
+
+}
