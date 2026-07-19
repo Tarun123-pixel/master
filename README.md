@@ -15,6 +15,7 @@ LEETCODE SOLUTIONS
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tarun123-pixel/master/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun123-pixel/master/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Tarun123-pixel/master/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Tarun123-pixel/master/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Tarun123-pixel/master/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ LEETCODE SOLUTIONS
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tarun123-pixel/master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Tarun123-pixel/master/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Tarun123-pixel/master/tree/master/0875-koko-eating-bananas) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
