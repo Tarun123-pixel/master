@@ -9,6 +9,7 @@ LEETCODE SOLUTIONS
 | [0001-two-sum](https://github.com/Tarun123-pixel/master/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun123-pixel/master/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/Tarun123-pixel/master/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Tarun123-pixel/master/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tarun123-pixel/master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Tarun123-pixel/master/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tarun123-pixel/master/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -77,8 +78,13 @@ LEETCODE SOLUTIONS
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tarun123-pixel/master/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Tarun123-pixel/master/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tarun123-pixel/master/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Tarun123-pixel/master/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
