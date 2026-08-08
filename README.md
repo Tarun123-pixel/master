@@ -50,6 +50,7 @@ LEETCODE SOLUTIONS
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tarun123-pixel/master/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Tarun123-pixel/master/tree/master/0022-generate-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/Tarun123-pixel/master/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -67,8 +68,17 @@ LEETCODE SOLUTIONS
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tarun123-pixel/master/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Tarun123-pixel/master/tree/master/0022-generate-parentheses) |
 ## Matrix
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tarun123-pixel/master/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Tarun123-pixel/master/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Tarun123-pixel/master/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
