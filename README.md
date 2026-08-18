@@ -34,6 +34,7 @@ LEETCODE SOLUTIONS
 | [0005-longest-palindromic-substring](https://github.com/Tarun123-pixel/master/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun123-pixel/master/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tarun123-pixel/master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Tarun123-pixel/master/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Tarun123-pixel/master/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -91,8 +92,14 @@ LEETCODE SOLUTIONS
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Tarun123-pixel/master/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Tarun123-pixel/master/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Tarun123-pixel/master/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Tarun123-pixel/master/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Tarun123-pixel/master/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
