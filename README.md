@@ -87,4 +87,12 @@ LEETCODE SOLUTIONS
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Tarun123-pixel/master/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tarun123-pixel/master/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tarun123-pixel/master/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
