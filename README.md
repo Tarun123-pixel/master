@@ -17,6 +17,7 @@ LEETCODE SOLUTIONS
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tarun123-pixel/master/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun123-pixel/master/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Tarun123-pixel/master/tree/master/0704-binary-search) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Tarun123-pixel/master/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0875-koko-eating-bananas](https://github.com/Tarun123-pixel/master/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Tarun123-pixel/master/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -59,6 +60,7 @@ LEETCODE SOLUTIONS
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Tarun123-pixel/master/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tarun123-pixel/master/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Tarun123-pixel/master/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ LEETCODE SOLUTIONS
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tarun123-pixel/master/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Tarun123-pixel/master/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tarun123-pixel/master/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Tarun123-pixel/master/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## String
 |  |
 | ------- |
@@ -102,4 +105,9 @@ LEETCODE SOLUTIONS
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Tarun123-pixel/master/tree/master/0234-palindrome-linked-list) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Tarun123-pixel/master/tree/master/0768-max-chunks-to-make-sorted-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Tarun123-pixel/master/tree/master/0768-max-chunks-to-make-sorted-ii) |
 <!---LeetCode Topics End-->
